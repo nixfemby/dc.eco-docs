@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'dc.eco',
+	title: 'discord.eco',
 	description: 'Your website description.',
 	defaultLanguage: 'en_US',
 };
@@ -35,12 +35,12 @@ export const KNOWN_LANGUAGES = {
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
+		{ text: 'Getting Started', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
+		{ text: 'Install', link: 'en/install' },
 
 		{ text: 'Another Section', header: true },
+		{ text: 'Page 3', link: 'en/page-3' },
 		{ text: 'Page 4', link: 'en/page-4' },
 	],
 };
