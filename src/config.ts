@@ -1,17 +1,16 @@
 export const SITE = {
-	title: 'discord.eco',
-	description: 'Your website description.',
+	title: 'dc.eco',
+	description: 'Awoooo',
 	defaultLanguage: 'en_US',
 };
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
+		src: 'https://github.com/wxifuwu/dc-eco/blob/mistress/assets/candy_preview.png?raw=true',
 		alt:
-			'astro logo on a starry expanse of space,' +
-			' with a purple saturn-like planet floating in the right foreground',
+			'DC.ECO documentation' +
+			' find on npm',
 	},
-	twitter: 'astrodotbuild',
 };
 
 export const KNOWN_LANGUAGES = {
@@ -39,8 +38,7 @@ export const SIDEBAR = {
 		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Install', link: 'en/install' },
 
-		{ text: 'Another Section', header: true },
-		{ text: 'Page 3', link: 'en/page-3' },
-		{ text: 'Page 4', link: 'en/page-4' },
+		{ text: 'References', header: true },
+		{ text: 'Functions', link: 'en/functions' },
 	],
 };
