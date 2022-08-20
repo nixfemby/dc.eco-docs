@@ -1,6 +1,6 @@
 ---
 title: Functions
-description: Overview of all functions and examples!
+description: Overview of all functions included in the current version of dc.eco!
 layout: ../../layouts/MainLayout.astro
 ---
 
