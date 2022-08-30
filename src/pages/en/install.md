@@ -18,7 +18,7 @@ If you wish to use the latest commit, you can do so by installing the package di
 
 The *recommended* way to install would be adding the following to your main file:
 ```js
-client.economy = require('dc.eco);
+client.economy = require('dc.eco');
 client.economy.setMongoURL(<mongodb_url>);
 ```
 This way you can access the economy system whenever you can access the client object itself and don't have to require/pass it to your individual commands
